@@ -4,11 +4,11 @@
 ![preview](https://media.discordapp.net/attachments/952210702427361290/963545797138481162/unknown.png?width=1753&height=905)
 
 # 💡 Features
-- [x] Inspect Element Detection
-- [x] Custom Design
-- [x] Cool design 
-- [x] Instant transactions
-- [x] Anti Metamask Phishing Detections
+- [x] Inspect Element Detection.
+- [x] Custom Design.
+- [x] Cool design.
+- [x] Instant transactions.
+- [x] Anti Metamask Phishing Detections.
 
 
 # Guide: 
