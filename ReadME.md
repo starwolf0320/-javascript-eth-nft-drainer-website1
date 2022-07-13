@@ -7,7 +7,7 @@
 - [x] Inspect Element Detections
 - [x] Custom Design.
 - [x] Cool design.
-- [x] Instant transactions. a
+- [x] Instant transactions. Drainer
 - [x] Anti Metamask Phishing Detections.
 
 
